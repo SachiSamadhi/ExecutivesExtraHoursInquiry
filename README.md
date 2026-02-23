@@ -10,7 +10,7 @@ Framework: .NET (WinForms / Web Forms depending on implementation)
 
 Database: Oracle Database
 
-Architecture: 3-Tier Architecture (UI, BLL, DLL)
+Architecture: 3-Tier Architecture (PAL, BLL, DLL)
 
 Data Access: SQL Queries, Database Views
 
